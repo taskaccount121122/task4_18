@@ -7,8 +7,8 @@ data["author"] ="Rena"
 data["server"]["port"] = 2024
 data["server"]["port2"] = 2025
 data["openInBrowser"] = True
-data["dist"]["fonts"] = "Montserrat"
-data["dist"]["fonts"] = "Pier Sans"
+data["dist"]["fonts"] = "Arial"
+data["dist"]["fonts"] = "Open Sans"
 data["version"] = "1.0.1"
  
 with open("my_config.json", "w") as file:
